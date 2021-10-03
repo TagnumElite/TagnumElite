@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There.
+
+I'm just your friendly cloud riding programmer. I enjoy making mods for games as well as tools for *game* development.
 
 <!--
 **TagnumElite/TagnumElite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
